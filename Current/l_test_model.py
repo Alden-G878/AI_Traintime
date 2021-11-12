@@ -92,11 +92,9 @@ def cartpole():
             dqn_solver.remember(state, action, reward, state_next, terminal)
             state = state_next
             mem = dqn_solver.memory[step-1]
-            print(mem)
+            #print(mem)
             save = tf.keras.Model(dqn_solver)
-            print(save)
-            #tf.keras.callbacks.ModelCheckpoint(filepath=checkpoint_path, save_weights_only=True, verbose=1)
-            #dqn_solver.model.save(checkpoint_path)
+            #print(save)
             tf.keras.models.save_model(dqn_solver.model, checkpoint_path)
             if terminal:
                 print("Run: " + str(run) + ", exploration: " + str(dqn_solver.exploration_rate) + ", score: " + str(step))
