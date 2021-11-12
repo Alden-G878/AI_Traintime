@@ -12,7 +12,7 @@ import time
 
 # Note: This python file is used to test the ability to save and load models
 # 
-# Currently, the models are properly imported from hdf5 (.hf) files or the SaveModel
+# Currently, the models are properly imported from hdf5 (.h5) files or the SaveModel
 # format in tensorflow. In addition, the program tests the time that it takes to
 # load hte model and access the memory of the model.
 

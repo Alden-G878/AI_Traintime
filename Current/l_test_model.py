@@ -11,10 +11,12 @@ from tensorflow.keras.optimizers import Adam
 
 #from gym.cartpole.scores.score_logger import ScoreLogger
 
-checkpoint_path = "/Users/groverj/AdvInq/Current/models/checkpoint_test2.h5"
+file_format = ".h5"
+
+checkpoint_path = "./models/checkpoint"
 checkpoint_dir = os.path.dirname(checkpoint_path)
 
-save_path = "./models/save_test.ckpt"
+save_path = "./models/save_run"
 save_dir = os.path.dirname(save_path)
 
 print(tf.config.list_physical_devices())
@@ -95,9 +97,10 @@ def cartpole():
             #print(mem)
             save = tf.keras.Model(dqn_solver)
             #print(save)
-            tf.keras.models.save_model(dqn_solver.model, checkpoint_path)
+            tf.keras.models.save_model(dqn_solver.model, checkpoint_path + file_format)
             if terminal:
                 print("Run: " + str(run) + ", exploration: " + str(dqn_solver.exploration_rate) + ", score: " + str(step))
+                tf.keras.models.save_model(dqn_solver.model, save_path + str(run) + file_format)
                 #score_logger.add_score(step, run)
                 break
             dqn_solver.experience_replay()
