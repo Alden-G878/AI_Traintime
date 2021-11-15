@@ -11,17 +11,25 @@ from tensorflow.keras.optimizers import Adam
 
 #from gym.cartpole.scores.score_logger import ScoreLogger
 
-file_format = ".h5"
+file_format = ".h5" # The file format that the model is saved as. If not h5, it would save as the SaveModel format, a tensorflow format
 
-checkpoint_path = "./models/checkpoint"
-checkpoint_dir = os.path.dirname(checkpoint_path)
+checkpoint_path = "./models/checkpoint" 
+# The checkpoint file (full filename would be 'checkpoint.h5') is saved every time the AI trains, 
+# which is every time the enviornment progresses one frame
 
-save_path = "./models/save_run"
-save_dir = os.path.dirname(save_path)
+save_path = "./models/save_run" 
+# The save_run file (full filename: 'save_run.h5') is updated (or created) every time a Run is completes.
+# A run is completed when the 'terminal' variable is True, which is dictated by the OpenAI Gym library
+# From what I've seen, a run is roughly 200 frames/steps, but I have not checked to see if that is 
+# constant or it depends on something else.
 
 print(tf.config.list_physical_devices())
 
 ENV_NAME = "MountainCar-v0"
+# The ENV_NAME variable is the enviornment that the AI is training on. Check the OpenAI Gym website for the others.
+# With this configuration, onmy [Box] (need to confirm name). Basically any enviornemnt that has a control scheme
+# where there are no floating point values that scale the responce should work. I may assemble a list of the 
+# enviornments, but the best place to check is the OpenAI Gym website.
 
 GAMMA = 0.95
 LEARNING_RATE = 0.001
