@@ -13,6 +13,8 @@ from tensorflow.keras.optimizers import Adam
 # generated inputs. I will then finish training without human input and compare it to an algorithm that has trained for the
 # same total number of epochs. 
 
+# There are a total of three actions, 0, 1, 2. I will have to test to see 
+
 #from gym.cartpole.scores.score_logger import ScoreLogger
 
 file_format = ".h5" # The file format that the model is saved as. If not h5, it would save as the SaveModel format, a tensorflow format
@@ -100,6 +102,7 @@ def cartpole():
             print("step: " + str(step))
             env.render()
             action = dqn_solver.act(state)
+            print(action)
             state_next, reward, terminal, info = env.step(action)
             reward = reward if not terminal else -reward
             state_next = np.reshape(state_next, [1, observation_space])
