@@ -3,9 +3,10 @@ import gym
 import numpy as np
 import tensorflow as tf
 import os
+from tensorflow import keras
 from collections import deque
-from keras.models import Sequential
-from keras.layers import Dense
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
 from tensorflow.keras.optimizers import Adam
 
 
