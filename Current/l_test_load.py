@@ -9,6 +9,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 from tensorflow.keras.optimizers import Adam
 
+# Loads a h5 file that is a neural network, and displays graphically the predicted best step, with no 
 
 #from gym.cartpole.scores.score_logger import ScoreLogger
 
@@ -95,8 +96,7 @@ def cartpole():
         while True:
             step += 1
             print("step: " + str(step))
-            print(tf.config.list_physical_devices())
-            #env.render()            # This should remove the rendering component of the openai gym, enabling this program ro be run on the command line
+            env.render()
             action = dqn_solver.act(state)
             state_next, reward, terminal, info = env.step(action)
             reward = reward if not terminal else -reward
@@ -105,15 +105,15 @@ def cartpole():
             state = state_next
             mem = dqn_solver.memory[step-1]
             #print(mem)
-            save = tf.keras.Model(dqn_solver)
+            #save = tf.keras.Model(dqn_solver)
             #print(save)
-            tf.keras.models.save_model(dqn_solver.model, checkpoint_path + file_format)
+            #tf.keras.models.save_model(dqn_solver.model, checkpoint_path + file_format)
             if terminal:
                 print("Run: " + str(run) + ", exploration: " + str(dqn_solver.exploration_rate) + ", score: " + str(step))
                 tf.keras.models.save_model(dqn_solver.model, save_path + str(run) + file_format)
                 #score_logger.add_score(step, run)
                 break
-            dqn_solver.experience_replay()
+            #dqn_solver.experience_replay()
 
 
 if __name__ == "__main__":
