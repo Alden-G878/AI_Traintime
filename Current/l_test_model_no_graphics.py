@@ -9,7 +9,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 from tensorflow.keras.optimizers import Adam
 
-tf.debugging.set_log_device_placement(True)
+#tf.debugging.set_log_device_placement(True)        # Debug - prints all device assignments made by tensorflow
 
 #from gym.cartpole.scores.score_logger import ScoreLogger
 
@@ -96,7 +96,7 @@ def cartpole():
         while True:
             step += 1
             print("step: " + str(step))
-            print(tf.config.list_physical_devices('GPU'))
+            #print(tf.config.list_physical_devices())      #Debug - prints devices (COU, GPU(s), etc.) after every step
             #env.render()            # This should remove the rendering component of the openai gym, enabling this program ro be run on the command line
             action = dqn_solver.act(state)
             state_next, reward, terminal, info = env.step(action)
