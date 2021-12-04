@@ -9,6 +9,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 from tensorflow.keras.optimizers import Adam
 
+tf.debugging.set_log_device_placement(True)
 
 #from gym.cartpole.scores.score_logger import ScoreLogger
 
