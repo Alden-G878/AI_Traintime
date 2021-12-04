@@ -95,7 +95,7 @@ def cartpole():
         while True:
             step += 1
             print("step: " + str(step))
-            print(tf.config.list_physical_devices())
+            print(tf.config.list_physical_devices('GPU'))
             #env.render()            # This should remove the rendering component of the openai gym, enabling this program ro be run on the command line
             action = dqn_solver.act(state)
             state_next, reward, terminal, info = env.step(action)
