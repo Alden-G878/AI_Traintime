@@ -9,7 +9,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 from tensorflow.keras.optimizers import Adam
 
-# Loads a h5 file that is a neural network, and displays graphically the predicted best step, with no 
+# Loads a h5 file that is a neural network, and displays graphically the predicted best step, with no training
 
 #from gym.cartpole.scores.score_logger import ScoreLogger
 
@@ -87,6 +87,7 @@ def cartpole():
     observation_space = env.observation_space.shape[0]
     action_space = env.action_space.n
     dqn_solver = DQNSolver(observation_space, action_space)
+    dqn_solver.model = tf.keras.models.load_model('/Users/groverj/AdvInq/AI_Traintime/Current/models/run2_jetson/save_run23.h5')
     run = 0
     while True:
         run += 1
