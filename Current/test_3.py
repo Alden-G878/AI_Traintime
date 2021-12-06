@@ -3,24 +3,16 @@ import gym
 import matplotlib.pyplot as plt
 
 # Import and initialize Mountain Car Environment
-env = gym.make('CartPole-v1')
-print(env.action_space)
-print(env.observation_space)
+env = gym.make('MountainCar-v0')
 env.reset()
-
-i = 0
-t38 = 100000000000000000000000000000000000000 # 10^38
 
 # Define Q-learning function
 def QLearning(env, learning, discount, epsilon, min_eps, episodes):
     # Determine size of discretized state space
-    print('high')
-    print(env.observation_space.high)
-    print('low')
-    print(env.observation_space.low)
     num_states = (env.observation_space.high - env.observation_space.low)*\
-                    np.array([1, 1//t38, 10, 1//t38])
+                    np.array([10, 100])
     num_states = np.round(num_states, 0).astype(int) + 1
+    
     # Initialize Q table
     Q = np.random.uniform(low = -1, high = 1, 
                           size = (num_states[0], num_states[1], 
@@ -106,4 +98,4 @@ plt.xlabel('Episodes')
 plt.ylabel('Average Reward')
 plt.title('Average Reward vs Episodes')
 plt.savefig('rewards.jpg')     
-plt.close()
+plt.close()  
