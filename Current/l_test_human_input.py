@@ -18,13 +18,14 @@ from tensorflow.keras.optimizers import Adam
 
 #from gym.cartpole.scores.score_logger import ScoreLogger
 
-file_format = ".h5" # The file format that the model is saved as. If not h5, it would save as the SaveModel format, a tensorflow format
+file_format = ".h5" # The file format that the model is saved as. If not h5, it would save as the SaveModel format, a tensorflow specific format
+# However, this model is only compatible with tensorflow, to my knowedge (which isn't much, you should double check that)
 
-checkpoint_path = "./models/checkpoint" 
+checkpoint_path = "./models/human_input/checkpoint" 
 # The checkpoint file (full filename would be 'checkpoint.h5') is saved every time the AI trains, 
 # which is every time the enviornment progresses one frame
 
-save_path = "./models/save_run" 
+save_path = "./models/human_input/save_run" 
 # The save_run file (full filename: 'save_run.h5') is updated (or created) every time a Run is completes.
 # A run is completed when the 'terminal' variable is True, which is dictated by the OpenAI Gym library
 # From what I've seen, a run is roughly 200 frames/steps, but I have not checked to see if that is 
@@ -33,10 +34,16 @@ save_path = "./models/save_run"
 print(tf.config.list_physical_devices())
 
 ENV_NAME = "MountainCar-v0"
+#ENV_NAME = "CartPole-v0"
 # The ENV_NAME variable is the enviornment that the AI is training on. Check the OpenAI Gym website for the others.
 # With this configuration, onmy [Box] (need to confirm name). Basically any enviornemnt that has a control scheme
 # where there are no floating point values that scale the responce should work. I may assemble a list of the 
 # enviornments, but the best place to check is the OpenAI Gym website.
+
+# MountainCar and CartPole are the two models that I am planning to use, so I made two ENV_NAME assignments, and
+# will comment each out as needed.
+
+
 
 GAMMA = 0.95
 LEARNING_RATE = 0.001
@@ -98,13 +105,15 @@ def cartpole():
         state = env.reset()
         state = np.reshape(state, [1, observation_space])
         step = 0
+        print(observation_space)
         while True:
             step += 1
             print("step: " + str(step))
             env.render()
-            action = dqn_solver.act(state)
+            action = dqn_solver.act(state) #change this to be a human input, need to find action space and print it out
             print(action)
             state_next, reward, terminal, info = env.step(action)
+            print(state_next)
             reward = reward if not terminal else -reward
             state_next = np.reshape(state_next, [1, observation_space])
             dqn_solver.remember(state, action, reward, state_next, terminal)
