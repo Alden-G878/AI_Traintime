@@ -15,7 +15,7 @@ import torch.nn.functional as F
 import torchvision.transforms as T
 
 
-env = gym.make('Acrobot-v1').unwrapped
+env = gym.make('CartPole-v0').unwrapped
 
 # set up matplotlib
 is_ipython = 'inline' in matplotlib.get_backend()
