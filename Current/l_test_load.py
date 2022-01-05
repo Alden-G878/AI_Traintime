@@ -87,7 +87,7 @@ def cartpole():
     observation_space = env.observation_space.shape[0]
     action_space = env.action_space.n
     dqn_solver = DQNSolver(observation_space, action_space)
-    dqn_solver.model = tf.keras.models.load_model('/Users/groverj/AdvInq/AI_Traintime/Current/models/save_run212.h5')
+    dqn_solver.model = tf.keras.models.load_model('/Users/groverj/AdvInq/AI_Traintime/Current/models/save_run416.h5')
     run = 0
     while True:
         run += 1
