@@ -108,10 +108,11 @@ def cartpole():
         print(observation_space)
         while True:
             step += 1
-            print("step: " + str(step))
+            #print("step: " + str(step))
             env.render()
             # speed to ~0
-            print("env acc: " + str(env.state[1]))
+            #print("env acc: " + str(env.state[1]))
+            #if (env.state[0])
             if (env.state[1]==0):
                 action = 1
             elif (env.state[1]<0):
@@ -119,9 +120,9 @@ def cartpole():
             elif (env.state[1]>0):
                 action = 2
             #action = int(input("0:L 1:N 2:R > "))#dqn_solver.act(state) #change this to be a human input, need to find action space and print it out
-            print(action)
+            #print(action)
             state_next, reward, terminal, info = env.step(action)
-            print(state_next)
+            #print(state_next)
             reward = reward if not terminal else -reward
             state_next = np.reshape(state_next, [1, observation_space])
             dqn_solver.remember(state, action, reward, state_next, terminal)
