@@ -56,7 +56,8 @@ class DQNSolver:
         self.model.add(Dense(24, input_shape=(observation_space,), activation="relu"))
         self.model.add(Dense(24, activation="relu"))
         self.model.add(Dense(self.action_space, activation="linear"))
-        self.model.compile(optimizer="adam", loss="mse")#, lr=LEARNING_RATE)
+        #self.model.compile(optimizer="adam", loss="mse")#, lr=LEARNING_RATE)
+        self.model.compile(optimizer=tf.keras.optimizers.Adam(learning_rate=LEARNING_RATE), loss=tf.keras.losses.MeanSquaredError())
     def remember(self, state, action, reward, next_state, done):
         self.memory.append((state, action, reward, next_state, done)) #looks to be a basic mem write
 
@@ -81,15 +82,15 @@ class DQNSolver:
         self.exploration_rate = max(EXPLORATION_MIN, self.exploration_rate)
 
 
-def cartpole():
+def cartpole(rNum, mRun):
     env = gym.make(ENV_NAME)
     #score_logger = ScoreLogger(ENV_NAME)
     observation_space = env.observation_space.shape[0]
     action_space = env.action_space.n
     dqn_solver = DQNSolver(observation_space, action_space)
-    dqn_solver.model = tf.keras.models.load_model('/Users/groverj/AdvInq/AI_Traintime/Current/models/save_run516.h5')
+    dqn_solver.model = tf.keras.models.load_model('/Users/groverj/AdvInq/AI_Traintime/Current/models/human_input/save_run' + str(rNum) + '.h5') #good epochs: 219, 230
     run = 0
-    while True:
+    while run<=mRun:
         run += 1
         state = env.reset()
         state = np.reshape(state, [1, observation_space])
@@ -119,4 +120,4 @@ def cartpole():
 
 
 if __name__ == "__main__":
-    cartpole()
+    cartpole(250, 4)
