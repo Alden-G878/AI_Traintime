@@ -92,6 +92,7 @@ def cartpole(rNum, mRun, path): #example path: /Users/groverj/AdvInq/AI_Traintim
     observation_space = env.observation_space.shape[0]
     action_space = env.action_space.n
     dqn_solver = DQNSolver(observation_space, action_space)
+    print(str(path) + str(rNum) + '.h5')
     dqn_solver.model = tf.keras.models.load_model(str(path) + str(rNum) + '.h5') #good epochs: 219, 230
     run = 0
     while run<=mRun:
@@ -102,7 +103,7 @@ def cartpole(rNum, mRun, path): #example path: /Users/groverj/AdvInq/AI_Traintim
         while True:
             step += 1
             #print("step: " + str(step))
-            env.render()
+            #env.render()
             action = dqn_solver.act(state) #always returns calculated best action
             #print(action)
             state_next, reward, terminal, info = env.step(action)
@@ -123,13 +124,13 @@ def cartpole(rNum, mRun, path): #example path: /Users/groverj/AdvInq/AI_Traintim
             #dqn_solver.experience_replay()
 
 
-sys.stdout = open("regular.axh", "w")
+#sys.stdout = open("regular", "w")
 
 #if __name__ == "__main__":
 for i in range(1,516):
 	print("Epoch: " + str(i))
 	cartpole(i, 10, "/Users/groverj/AdvInq/AI_Traintime/Current/models/jetson_tf/run5_jetson/save_run")
-sys.stdout.close()
+#sys.stdout.close()
 
 
 

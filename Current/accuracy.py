@@ -41,7 +41,8 @@ except:
 	print("Another person with this same name and ID already exists.")
 	print("Please make sure you have the right name and ID.")
 	print()
-	print("If you are trying to ")
+	print("If you are trying to load a archive that already exists, ")
+	print("use 'refreshFromLoadedFile' instead.")
 
 sp1.addJob(3,5)
 print(sp1.totalPredictions)
