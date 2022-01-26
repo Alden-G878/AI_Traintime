@@ -68,7 +68,8 @@ class DQNSolver:
         self.model.add(Dense(24, input_shape=(observation_space,), activation="relu"))
         self.model.add(Dense(24, activation="relu"))
         self.model.add(Dense(self.action_space, activation="linear"))
-        self.model.compile(optimizer="adam", loss="mse")#, lr=LEARNING_RATE)
+        #self.model.compile(optimizer="adam", loss="mse")#, lr=LEARNING_RATE)
+        self.model.compile(optimizer=tf.keras.optimizers.Adam(learning_rate=LEARNING_RATE), loss=tf.keras.losses.MeanSquaredError())
     def remember(self, state, action, reward, next_state, done):
         self.memory.append((state, action, reward, next_state, done)) #looks to be a basic mem write
 
