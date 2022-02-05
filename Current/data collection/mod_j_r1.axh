@@ -1,0 +1,1836 @@
+[PhysicalDevice(name='/physical_device:CPU:0', device_type='CPU'), PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+Epoch: 1
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run1.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 2
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run2.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 3
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run3.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 4
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run4.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 5
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run5.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 6
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run6.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 7
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run7.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 8
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run8.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 9
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run9.h5
+Run: 1, exploration: 1.0, score: 167
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 166
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 174
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 165
+Run: 11, exploration: 1.0, score: 95
+Epoch: 10
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run10.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 189
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 11
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run11.h5
+Run: 1, exploration: 1.0, score: 159
+Run: 2, exploration: 1.0, score: 166
+Run: 3, exploration: 1.0, score: 128
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 159
+Run: 6, exploration: 1.0, score: 131
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 160
+Run: 11, exploration: 1.0, score: 200
+Epoch: 12
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run12.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 13
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run13.h5
+Run: 1, exploration: 1.0, score: 182
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 175
+Run: 6, exploration: 1.0, score: 117
+Run: 7, exploration: 1.0, score: 118
+Run: 8, exploration: 1.0, score: 182
+Run: 9, exploration: 1.0, score: 181
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 118
+Epoch: 14
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run14.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 15
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run15.h5
+Run: 1, exploration: 1.0, score: 143
+Run: 2, exploration: 1.0, score: 121
+Run: 3, exploration: 1.0, score: 164
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 161
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 144
+Run: 9, exploration: 1.0, score: 184
+Run: 10, exploration: 1.0, score: 122
+Run: 11, exploration: 1.0, score: 117
+Epoch: 16
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run16.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 17
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run17.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 18
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run18.h5
+Run: 1, exploration: 1.0, score: 139
+Run: 2, exploration: 1.0, score: 121
+Run: 3, exploration: 1.0, score: 136
+Run: 4, exploration: 1.0, score: 124
+Run: 5, exploration: 1.0, score: 136
+Run: 6, exploration: 1.0, score: 139
+Run: 7, exploration: 1.0, score: 139
+Run: 8, exploration: 1.0, score: 123
+Run: 9, exploration: 1.0, score: 137
+Run: 10, exploration: 1.0, score: 138
+Run: 11, exploration: 1.0, score: 139
+Epoch: 19
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run19.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 20
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run20.h5
+Run: 1, exploration: 1.0, score: 176
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 181
+Run: 5, exploration: 1.0, score: 176
+Run: 6, exploration: 1.0, score: 176
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 175
+Run: 10, exploration: 1.0, score: 178
+Run: 11, exploration: 1.0, score: 176
+Epoch: 21
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run21.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 22
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run22.h5
+Run: 1, exploration: 1.0, score: 139
+Run: 2, exploration: 1.0, score: 124
+Run: 3, exploration: 1.0, score: 135
+Run: 4, exploration: 1.0, score: 137
+Run: 5, exploration: 1.0, score: 138
+Run: 6, exploration: 1.0, score: 141
+Run: 7, exploration: 1.0, score: 134
+Run: 8, exploration: 1.0, score: 137
+Run: 9, exploration: 1.0, score: 132
+Run: 10, exploration: 1.0, score: 135
+Run: 11, exploration: 1.0, score: 141
+Epoch: 23
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run23.h5
+Run: 1, exploration: 1.0, score: 136
+Run: 2, exploration: 1.0, score: 139
+Run: 3, exploration: 1.0, score: 124
+Run: 4, exploration: 1.0, score: 137
+Run: 5, exploration: 1.0, score: 123
+Run: 6, exploration: 1.0, score: 137
+Run: 7, exploration: 1.0, score: 124
+Run: 8, exploration: 1.0, score: 137
+Run: 9, exploration: 1.0, score: 183
+Run: 10, exploration: 1.0, score: 137
+Run: 11, exploration: 1.0, score: 138
+Epoch: 24
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run24.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 25
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run25.h5
+Run: 1, exploration: 1.0, score: 137
+Run: 2, exploration: 1.0, score: 137
+Run: 3, exploration: 1.0, score: 143
+Run: 4, exploration: 1.0, score: 138
+Run: 5, exploration: 1.0, score: 137
+Run: 6, exploration: 1.0, score: 139
+Run: 7, exploration: 1.0, score: 139
+Run: 8, exploration: 1.0, score: 137
+Run: 9, exploration: 1.0, score: 136
+Run: 10, exploration: 1.0, score: 142
+Run: 11, exploration: 1.0, score: 140
+Epoch: 26
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run26.h5
+Run: 1, exploration: 1.0, score: 138
+Run: 2, exploration: 1.0, score: 139
+Run: 3, exploration: 1.0, score: 138
+Run: 4, exploration: 1.0, score: 138
+Run: 5, exploration: 1.0, score: 143
+Run: 6, exploration: 1.0, score: 139
+Run: 7, exploration: 1.0, score: 138
+Run: 8, exploration: 1.0, score: 121
+Run: 9, exploration: 1.0, score: 139
+Run: 10, exploration: 1.0, score: 136
+Run: 11, exploration: 1.0, score: 136
+Epoch: 27
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run27.h5
+Run: 1, exploration: 1.0, score: 127
+Run: 2, exploration: 1.0, score: 150
+Run: 3, exploration: 1.0, score: 152
+Run: 4, exploration: 1.0, score: 150
+Run: 5, exploration: 1.0, score: 150
+Run: 6, exploration: 1.0, score: 150
+Run: 7, exploration: 1.0, score: 148
+Run: 8, exploration: 1.0, score: 148
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 192
+Run: 11, exploration: 1.0, score: 148
+Epoch: 28
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run28.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 29
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run29.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 88
+Run: 3, exploration: 1.0, score: 91
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 106
+Run: 6, exploration: 1.0, score: 154
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 106
+Run: 9, exploration: 1.0, score: 93
+Run: 10, exploration: 1.0, score: 154
+Run: 11, exploration: 1.0, score: 200
+Epoch: 30
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run30.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 31
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run31.h5
+Run: 1, exploration: 1.0, score: 141
+Run: 2, exploration: 1.0, score: 112
+Run: 3, exploration: 1.0, score: 142
+Run: 4, exploration: 1.0, score: 142
+Run: 5, exploration: 1.0, score: 142
+Run: 6, exploration: 1.0, score: 113
+Run: 7, exploration: 1.0, score: 112
+Run: 8, exploration: 1.0, score: 141
+Run: 9, exploration: 1.0, score: 142
+Run: 10, exploration: 1.0, score: 113
+Run: 11, exploration: 1.0, score: 141
+Epoch: 32
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run32.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 162
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 161
+Run: 5, exploration: 1.0, score: 187
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 174
+Run: 8, exploration: 1.0, score: 103
+Run: 9, exploration: 1.0, score: 160
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 33
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run33.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 34
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run34.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 35
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run35.h5
+Run: 1, exploration: 1.0, score: 156
+Run: 2, exploration: 1.0, score: 157
+Run: 3, exploration: 1.0, score: 157
+Run: 4, exploration: 1.0, score: 155
+Run: 5, exploration: 1.0, score: 165
+Run: 6, exploration: 1.0, score: 176
+Run: 7, exploration: 1.0, score: 155
+Run: 8, exploration: 1.0, score: 177
+Run: 9, exploration: 1.0, score: 171
+Run: 10, exploration: 1.0, score: 177
+Run: 11, exploration: 1.0, score: 173
+Epoch: 36
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run36.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 195
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 37
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run37.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 38
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run38.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 39
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run39.h5
+Run: 1, exploration: 1.0, score: 160
+Run: 2, exploration: 1.0, score: 159
+Run: 3, exploration: 1.0, score: 92
+Run: 4, exploration: 1.0, score: 92
+Run: 5, exploration: 1.0, score: 182
+Run: 6, exploration: 1.0, score: 164
+Run: 7, exploration: 1.0, score: 92
+Run: 8, exploration: 1.0, score: 96
+Run: 9, exploration: 1.0, score: 93
+Run: 10, exploration: 1.0, score: 170
+Run: 11, exploration: 1.0, score: 101
+Epoch: 40
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run40.h5
+Run: 1, exploration: 1.0, score: 139
+Run: 2, exploration: 1.0, score: 84
+Run: 3, exploration: 1.0, score: 142
+Run: 4, exploration: 1.0, score: 168
+Run: 5, exploration: 1.0, score: 102
+Run: 6, exploration: 1.0, score: 83
+Run: 7, exploration: 1.0, score: 91
+Run: 8, exploration: 1.0, score: 143
+Run: 9, exploration: 1.0, score: 139
+Run: 10, exploration: 1.0, score: 165
+Run: 11, exploration: 1.0, score: 151
+Epoch: 41
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run41.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 42
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run42.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 43
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run43.h5
+Run: 1, exploration: 1.0, score: 170
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 167
+Run: 5, exploration: 1.0, score: 167
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 167
+Run: 11, exploration: 1.0, score: 200
+Epoch: 44
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run44.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 45
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run45.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 46
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run46.h5
+Run: 1, exploration: 1.0, score: 180
+Run: 2, exploration: 1.0, score: 189
+Run: 3, exploration: 1.0, score: 179
+Run: 4, exploration: 1.0, score: 189
+Run: 5, exploration: 1.0, score: 194
+Run: 6, exploration: 1.0, score: 190
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 163
+Run: 10, exploration: 1.0, score: 180
+Run: 11, exploration: 1.0, score: 188
+Epoch: 47
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run47.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 48
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run48.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 49
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run49.h5
+Run: 1, exploration: 1.0, score: 162
+Run: 2, exploration: 1.0, score: 93
+Run: 3, exploration: 1.0, score: 154
+Run: 4, exploration: 1.0, score: 158
+Run: 5, exploration: 1.0, score: 91
+Run: 6, exploration: 1.0, score: 168
+Run: 7, exploration: 1.0, score: 93
+Run: 8, exploration: 1.0, score: 158
+Run: 9, exploration: 1.0, score: 156
+Run: 10, exploration: 1.0, score: 156
+Run: 11, exploration: 1.0, score: 117
+Epoch: 50
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run50.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 51
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run51.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 52
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run52.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 53
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run53.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 54
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run54.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 55
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run55.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 56
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run56.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 57
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run57.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 58
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run58.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 59
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run59.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 60
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run60.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 61
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run61.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 62
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run62.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 63
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run63.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 64
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run64.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 65
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run65.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 66
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run66.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 67
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run67.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 68
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run68.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 69
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run69.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 70
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run70.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 71
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run71.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 72
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run72.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 73
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run73.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 74
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run74.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 75
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run75.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 76
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run76.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 77
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run77.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 78
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run78.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 79
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run79.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 80
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run80.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 174
+Run: 3, exploration: 1.0, score: 172
+Run: 4, exploration: 1.0, score: 175
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 168
+Run: 7, exploration: 1.0, score: 174
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 175
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 166
+Epoch: 81
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run81.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 82
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run82.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 83
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run83.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 84
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run84.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 85
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run85.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 86
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run86.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 87
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run87.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 88
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run88.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 89
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run89.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 90
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run90.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 91
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run91.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 92
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run92.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 93
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run93.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 94
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run94.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 95
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run95.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 96
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run96.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 97
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run97.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 98
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run98.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 99
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run99.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 100
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run100.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 101
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run101.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 102
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run102.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 103
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run103.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 104
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run104.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 105
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run105.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 106
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run106.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 107
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run107.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 108
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run108.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 109
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run109.h5
+Run: 1, exploration: 1.0, score: 156
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 172
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 156
+Run: 9, exploration: 1.0, score: 159
+Run: 10, exploration: 1.0, score: 172
+Run: 11, exploration: 1.0, score: 200
+Epoch: 110
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run110.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 111
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run111.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 112
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run112.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 113
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run113.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 114
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run114.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 115
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run115.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 171
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 170
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 116
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run116.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 117
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run117.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 118
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run118.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 119
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run119.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 120
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run120.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 121
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run121.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 122
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run122.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 123
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run123.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 124
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run124.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 125
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run125.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 126
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run126.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 127
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run127.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 128
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run128.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 129
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run129.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 130
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run130.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 131
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run131.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 132
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run132.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 133
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run133.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 134
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run134.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 135
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run135.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 136
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run136.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 137
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run137.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 138
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run138.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 139
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run139.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 140
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run140.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 141
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run141.h5
+Run: 1, exploration: 1.0, score: 200
+Run: 2, exploration: 1.0, score: 200
+Run: 3, exploration: 1.0, score: 200
+Run: 4, exploration: 1.0, score: 200
+Run: 5, exploration: 1.0, score: 200
+Run: 6, exploration: 1.0, score: 200
+Run: 7, exploration: 1.0, score: 200
+Run: 8, exploration: 1.0, score: 200
+Run: 9, exploration: 1.0, score: 200
+Run: 10, exploration: 1.0, score: 200
+Run: 11, exploration: 1.0, score: 200
+Epoch: 142
+/home/jetson/advinq/AI_Traintime/Current/models/human_input/run1/save_run142.h5

@@ -11,4 +11,4 @@ def preProc(fName):
 		f[i] = f[i][0]
 		print(f[i])
 
-preProc("regular2")
+preProc("regular_j.axh")
