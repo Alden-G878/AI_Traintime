@@ -19,4 +19,6 @@ for i in range(len(f)):
 	avg = tot/num
 	g1_data = g1_data + [avg]
 print(g1_data)
+plt.figure(0)
 plt.plot(range(len(g1_data)), g1_data)
+plt.show()
