@@ -13,4 +13,4 @@ def preProc(fName):
 		for j in range(len(f[i])):
 			print(f[i][j])
 
-preProc("mod_j_r2.axh")
+preProc("mod_j_r3.axh")

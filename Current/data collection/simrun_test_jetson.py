@@ -129,5 +129,5 @@ def cartpole(rNum, mRun, path): #example path: /Users/groverj/AdvInq/AI_Traintim
 #if __name__ == "__main__":
 for i in range(1,516):
 	print("Epoch: " + str(i))
-	cartpole(i, 10, "/home/jetson/advinq/AI_Traintime/Current/models/human_input/run2/save_run")
+	cartpole(i, 10, "/home/jetson/advinq/AI_Traintime/Current/models/human_input/run3/save_run")
 #sys.stdout.close()
